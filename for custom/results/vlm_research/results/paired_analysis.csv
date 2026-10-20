@@ -1,0 +1,201 @@
+image_id,object,question,label,blurred,original,original_correct,blurred_correct
+8211,motorcycle,Is there a motorcycle in the image?,yes,yes,yes,True,True
+8211,sheep,Is there a sheep in the image?,no,no,no,True,True
+11511,bench,Is there a bench in the image?,yes,yes,yes,True,True
+11511,spoon,Is there a spoon in the image?,no,no,no,True,True
+11699,cup,Is there a cup in the image?,no,no,no,True,True
+11699,person,Is there a person in the image?,yes,yes,yes,True,True
+20571,boat,Is there a boat in the image?,yes,yes,yes,True,True
+20571,knife,Is there a knife in the image?,no,no,no,True,True
+25096,cell phone,Is there a cell phone in the image?,no,no,no,True,True
+25096,chair,Is there a chair in the image?,yes,no,no,False,False
+26204,sheep,Is there a sheep in the image?,no,no,no,True,True
+26204,traffic light,Is there a traffic light in the image?,yes,yes,no,False,True
+31118,broccoli,Is there a broccoli in the image?,no,uncertain,no,True,False
+31118,person,Is there a person in the image?,yes,uncertain,yes,True,False
+31817,hot dog,Is there a hot dog in the image?,no,no,uncertain,False,True
+31817,motorcycle,Is there a motorcycle in the image?,yes,yes,yes,True,True
+32817,bench,Is there a bench in the image?,no,no,no,True,True
+32817,person,Is there a person in the image?,yes,yes,yes,True,True
+33638,cup,Is there a cup in the image?,no,yes,no,True,False
+33638,person,Is there a person in the image?,yes,yes,yes,True,True
+33854,hair drier,Is there a hair drier in the image?,no,uncertain,no,True,False
+33854,motorcycle,Is there a motorcycle in the image?,yes,yes,yes,True,True
+34257,carrot,Is there a carrot in the image?,yes,yes,yes,True,True
+34257,hot dog,Is there a hot dog in the image?,no,no,no,True,True
+39480,person,Is there a person in the image?,yes,yes,yes,True,True
+39480,snowboard,Is there a snowboard in the image?,no,no,no,True,True
+48396,dining table,Is there a dining table in the image?,yes,yes,yes,True,True
+48396,sandwich,Is there a sandwich in the image?,no,no,no,True,True
+60835,dog,Is there a dog in the image?,yes,yes,yes,True,True
+60835,stop sign,Is there a stop sign in the image?,no,no,no,True,True
+67534,chair,Is there a chair in the image?,yes,no,yes,True,False
+67534,skis,Is there a skis in the image?,no,no,no,True,True
+89045,clock,Is there a clock in the image?,yes,no,no,False,False
+89045,sink,Is there a sink in the image?,no,no,no,True,True
+90284,person,Is there a person in the image?,yes,yes,yes,True,True
+90284,pizza,Is there a pizza in the image?,no,no,no,True,True
+91406,pizza,Is there a pizza in the image?,yes,yes,yes,True,True
+91406,remote,Is there a remote in the image?,no,no,no,True,True
+92053,book,Is there a book in the image?,no,no,no,True,True
+92053,donut,Is there a donut in the image?,yes,no,no,False,False
+99054,person,Is there a person in the image?,yes,yes,yes,True,True
+99054,tv,Is there a tv in the image?,no,uncertain,no,True,False
+102707,bottle,Is there a bottle in the image?,yes,yes,yes,True,True
+102707,car,Is there a car in the image?,no,no,no,True,True
+111609,bed,Is there a bed in the image?,yes,yes,yes,True,True
+111609,cake,Is there a cake in the image?,no,no,no,True,True
+113589,banana,Is there a banana in the image?,yes,yes,yes,True,True
+113589,teddy bear,Is there a teddy bear in the image?,no,no,no,True,True
+125850,bowl,Is there a bowl in the image?,yes,yes,yes,True,True
+125850,skateboard,Is there a skateboard in the image?,no,no,no,True,True
+133819,traffic light,Is there a traffic light in the image?,yes,yes,yes,True,True
+133819,truck,Is there a truck in the image?,no,no,no,True,True
+138550,dining table,Is there a dining table in the image?,yes,no,yes,True,False
+138550,handbag,Is there a handbag in the image?,no,no,no,True,True
+147338,fire hydrant,Is there a fire hydrant in the image?,yes,yes,yes,True,True
+147338,remote,Is there a remote in the image?,no,no,no,True,True
+151480,backpack,Is there a backpack in the image?,yes,no,yes,True,False
+151480,fire hydrant,Is there a fire hydrant in the image?,no,uncertain,no,True,False
+156292,fire hydrant,Is there a fire hydrant in the image?,no,no,no,True,True
+156292,person,Is there a person in the image?,yes,yes,yes,True,True
+157390,dining table,Is there a dining table in the image?,yes,yes,yes,True,True
+157390,horse,Is there a horse in the image?,no,no,no,True,True
+161925,frisbee,Is there a frisbee in the image?,no,no,no,True,True
+161925,person,Is there a person in the image?,yes,yes,yes,True,True
+175438,knife,Is there a knife in the image?,no,uncertain,no,True,False
+175438,traffic light,Is there a traffic light in the image?,yes,yes,yes,True,True
+181499,person,Is there a person in the image?,yes,yes,yes,True,True
+181499,spoon,Is there a spoon in the image?,no,no,no,True,True
+181753,dining table,Is there a dining table in the image?,yes,yes,yes,True,True
+181753,motorcycle,Is there a motorcycle in the image?,no,no,no,True,True
+184791,bowl,Is there a bowl in the image?,yes,yes,yes,True,True
+184791,pizza,Is there a pizza in the image?,no,no,no,True,True
+191761,bowl,Is there a bowl in the image?,yes,yes,yes,True,True
+191761,dining table,Is there a dining table in the image?,no,no,no,True,True
+194471,bear,Is there a bear in the image?,no,no,no,True,True
+194471,person,Is there a person in the image?,yes,yes,yes,True,True
+206838,person,Is there a person in the image?,yes,yes,yes,True,True
+206838,sports ball,Is there a sports ball in the image?,no,no,no,True,True
+223789,bottle,Is there a bottle in the image?,yes,yes,yes,True,True
+223789,knife,Is there a knife in the image?,no,no,no,True,True
+225757,hair drier,Is there a hair drier in the image?,no,no,no,True,True
+225757,keyboard,Is there a keyboard in the image?,yes,yes,yes,True,True
+230983,person,Is there a person in the image?,yes,yes,yes,True,True
+230983,traffic light,Is there a traffic light in the image?,no,no,no,True,True
+231125,bird,Is there a bird in the image?,no,no,no,True,True
+231125,donut,Is there a donut in the image?,yes,yes,yes,True,True
+231339,baseball glove,Is there a baseball glove in the image?,no,no,no,True,True
+231339,bowl,Is there a bowl in the image?,yes,no,no,False,False
+231831,cat,Is there a cat in the image?,yes,yes,yes,True,True
+231831,sink,Is there a sink in the image?,no,yes,no,True,False
+232649,dog,Is there a dog in the image?,no,no,no,True,True
+232649,toilet,Is there a toilet in the image?,yes,yes,yes,True,True
+232692,person,Is there a person in the image?,yes,yes,yes,True,True
+232692,toothbrush,Is there a toothbrush in the image?,no,no,no,True,True
+234607,fork,Is there a fork in the image?,no,no,no,True,True
+234607,person,Is there a person in the image?,yes,yes,yes,True,True
+241602,potted plant,Is there a potted plant in the image?,yes,yes,yes,True,True
+241602,sheep,Is there a sheep in the image?,no,no,no,True,True
+248616,knife,Is there a knife in the image?,no,no,no,True,True
+248616,tennis racket,Is there a tennis racket in the image?,yes,yes,yes,True,True
+256916,pizza,Is there a pizza in the image?,yes,yes,yes,True,True
+256916,stop sign,Is there a stop sign in the image?,no,no,no,True,True
+257478,hot dog,Is there a hot dog in the image?,no,uncertain,no,True,False
+257478,person,Is there a person in the image?,yes,yes,yes,True,True
+260261,horse,Is there a horse in the image?,no,no,no,True,True
+260261,truck,Is there a truck in the image?,yes,yes,yes,True,True
+284106,carrot,Is there a carrot in the image?,yes,yes,yes,True,True
+284106,hot dog,Is there a hot dog in the image?,no,no,no,True,True
+288430,boat,Is there a boat in the image?,yes,no,no,False,False
+288430,traffic light,Is there a traffic light in the image?,no,no,no,True,True
+289059,backpack,Is there a backpack in the image?,no,no,no,True,True
+289059,tennis racket,Is there a tennis racket in the image?,yes,yes,yes,True,True
+303653,bird,Is there a bird in the image?,no,no,no,True,True
+303653,person,Is there a person in the image?,yes,yes,yes,True,True
+308328,book,Is there a book in the image?,no,uncertain,no,True,False
+308328,truck,Is there a truck in the image?,yes,yes,yes,True,True
+320554,bench,Is there a bench in the image?,yes,yes,yes,True,True
+320554,cow,Is there a cow in the image?,no,no,no,True,True
+322864,apple,Is there a apple in the image?,no,no,no,True,True
+322864,person,Is there a person in the image?,yes,uncertain,uncertain,False,False
+329614,car,Is there a car in the image?,yes,yes,yes,True,True
+329614,skateboard,Is there a skateboard in the image?,no,no,no,True,True
+343218,person,Is there a person in the image?,yes,yes,yes,True,True
+343218,zebra,Is there a zebra in the image?,no,no,no,True,True
+352491,person,Is there a person in the image?,yes,uncertain,yes,True,False
+352491,sink,Is there a sink in the image?,no,no,no,True,True
+352582,frisbee,Is there a frisbee in the image?,yes,yes,yes,True,True
+352582,remote,Is there a remote in the image?,no,no,no,True,True
+357238,person,Is there a person in the image?,yes,no,yes,True,False
+357238,sports ball,Is there a sports ball in the image?,no,no,no,True,True
+361586,pizza,Is there a pizza in the image?,no,uncertain,uncertain,False,False
+361586,tv,Is there a tv in the image?,yes,yes,yes,True,True
+363784,mouse,Is there a mouse in the image?,no,uncertain,no,True,False
+363784,toilet,Is there a toilet in the image?,yes,yes,yes,True,True
+373705,person,Is there a person in the image?,yes,yes,yes,True,True
+373705,tv,Is there a tv in the image?,no,no,no,True,True
+388056,baseball bat,Is there a baseball bat in the image?,yes,yes,yes,True,True
+388056,giraffe,Is there a giraffe in the image?,no,uncertain,no,True,False
+389566,sheep,Is there a sheep in the image?,yes,yes,yes,True,True
+389566,tie,Is there a tie in the image?,no,no,no,True,True
+392722,airplane,Is there a airplane in the image?,no,no,no,True,True
+392722,car,Is there a car in the image?,yes,yes,yes,True,True
+397133,bowl,Is there a bowl in the image?,yes,yes,yes,True,True
+397133,giraffe,Is there a giraffe in the image?,no,no,no,True,True
+407650,bed,Is there a bed in the image?,no,no,no,True,True
+407650,person,Is there a person in the image?,yes,yes,yes,True,True
+416885,orange,Is there a orange in the image?,no,no,no,True,True
+416885,wine glass,Is there a wine glass in the image?,yes,yes,yes,True,True
+427055,apple,Is there a apple in the image?,no,uncertain,no,True,False
+427055,clock,Is there a clock in the image?,yes,yes,yes,True,True
+428218,person,Is there a person in the image?,yes,yes,yes,True,True
+428218,traffic light,Is there a traffic light in the image?,no,no,no,True,True
+437351,fire hydrant,Is there a fire hydrant in the image?,no,no,no,True,True
+437351,suitcase,Is there a suitcase in the image?,yes,yes,yes,True,True
+439426,book,Is there a book in the image?,no,no,no,True,True
+439426,donut,Is there a donut in the image?,yes,yes,yes,True,True
+439623,car,Is there a car in the image?,yes,yes,yes,True,True
+439623,surfboard,Is there a surfboard in the image?,no,no,no,True,True
+440617,sheep,Is there a sheep in the image?,no,no,no,True,True
+440617,train,Is there a train in the image?,yes,yes,yes,True,True
+456303,baseball bat,Is there a baseball bat in the image?,no,yes,no,True,False
+456303,person,Is there a person in the image?,yes,no,yes,True,False
+458255,cat,Is there a cat in the image?,yes,yes,yes,True,True
+458255,umbrella,Is there a umbrella in the image?,no,no,no,True,True
+459500,clock,Is there a clock in the image?,yes,yes,yes,True,True
+459500,sports ball,Is there a sports ball in the image?,no,no,no,True,True
+462643,boat,Is there a boat in the image?,no,no,no,True,True
+462643,person,Is there a person in the image?,yes,yes,yes,True,True
+464144,elephant,Is there a elephant in the image?,no,no,no,True,True
+464144,skis,Is there a skis in the image?,yes,yes,yes,True,True
+473118,person,Is there a person in the image?,yes,yes,yes,True,True
+473118,sandwich,Is there a sandwich in the image?,no,no,no,True,True
+478721,bench,Is there a bench in the image?,no,no,no,True,True
+478721,truck,Is there a truck in the image?,yes,yes,yes,True,True
+482100,toilet,Is there a toilet in the image?,yes,yes,yes,True,True
+482100,zebra,Is there a zebra in the image?,no,no,no,True,True
+489339,person,Is there a person in the image?,yes,yes,yes,True,True
+489339,zebra,Is there a zebra in the image?,no,no,no,True,True
+498747,person,Is there a person in the image?,yes,yes,yes,True,True
+498747,potted plant,Is there a potted plant in the image?,no,no,no,True,True
+501023,stop sign,Is there a stop sign in the image?,yes,yes,yes,True,True
+501023,toaster,Is there a toaster in the image?,no,no,no,True,True
+515445,couch,Is there a couch in the image?,no,no,no,True,True
+515445,person,Is there a person in the image?,yes,yes,yes,True,True
+523807,dog,Is there a dog in the image?,no,no,no,True,True
+523807,person,Is there a person in the image?,yes,no,yes,True,False
+527220,car,Is there a car in the image?,yes,yes,yes,True,True
+527220,surfboard,Is there a surfboard in the image?,no,no,no,True,True
+539883,teddy bear,Is there a teddy bear in the image?,no,no,no,True,True
+539883,tv,Is there a tv in the image?,yes,yes,yes,True,True
+540962,chair,Is there a chair in the image?,yes,yes,yes,True,True
+540962,hair drier,Is there a hair drier in the image?,no,no,no,True,True
+546659,airplane,Is there a airplane in the image?,no,no,no,True,True
+546659,train,Is there a train in the image?,yes,yes,yes,True,True
+547886,carrot,Is there a carrot in the image?,no,no,no,True,True
+547886,horse,Is there a horse in the image?,yes,yes,yes,True,True
+570834,bicycle,Is there a bicycle in the image?,yes,yes,yes,True,True
+570834,laptop,Is there a laptop in the image?,no,uncertain,no,True,False
+572620,bus,Is there a bus in the image?,no,yes,no,True,False
+572620,skateboard,Is there a skateboard in the image?,yes,yes,yes,True,True
